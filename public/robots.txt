@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arga-bayu-ramadhan.vercel.app/sitemap.xml
